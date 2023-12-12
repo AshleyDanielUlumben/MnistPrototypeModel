@@ -1,0 +1,2 @@
+# MnistPrototypeModel
+Academic Project
