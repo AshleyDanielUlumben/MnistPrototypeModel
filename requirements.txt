@@ -1,4 +1,4 @@
-tensorflow
+tensorflow==2.8.0
 python-3.8.12
 keras==2.14.0
 flask
