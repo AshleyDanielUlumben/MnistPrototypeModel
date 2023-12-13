@@ -1,4 +1,5 @@
-tensorflow==2.14.0
+tensorflow
+python-3.8.12
 keras==2.14.0
 flask
 gunicorn
